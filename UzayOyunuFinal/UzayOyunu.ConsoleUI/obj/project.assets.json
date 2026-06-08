@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "UzayOyunu.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "UzayOyunu.Core": "1.0.0",
+          "UzayOyunu.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UzayOyunu.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UzayOyunu.Business.dll": {}
+        }
+      },
+      "UzayOyunu.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/UzayOyunu.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UzayOyunu.Core.dll": {}
+        }
+      },
+      "UzayOyunu.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "UzayOyunu.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UzayOyunu.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UzayOyunu.DataAccess.dll": {}
+        }
+      },
+      "UzayOyunu.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "UzayOyunu.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UzayOyunu.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UzayOyunu.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UzayOyunu.Business/1.0.0": {
+      "type": "project",
+      "path": "../UzayOyunu.Business/UzayOyunu.Business.csproj",
+      "msbuildProject": "../UzayOyunu.Business/UzayOyunu.Business.csproj"
+    },
+    "UzayOyunu.Core/1.0.0": {
+      "type": "project",
+      "path": "../UzayOyunu.Core/UzayOyunu.Core.csproj",
+      "msbuildProject": "../UzayOyunu.Core/UzayOyunu.Core.csproj"
+    },
+    "UzayOyunu.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../UzayOyunu.DataAccess/UzayOyunu.DataAccess.csproj",
+      "msbuildProject": "../UzayOyunu.DataAccess/UzayOyunu.DataAccess.csproj"
+    },
+    "UzayOyunu.Entities/1.0.0": {
+      "type": "project",
+      "path": "../UzayOyunu.Entities/UzayOyunu.Entities.csproj",
+      "msbuildProject": "../UzayOyunu.Entities/UzayOyunu.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "UzayOyunu.Business >= 1.0.0",
+      "UzayOyunu.DataAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunuFinal\\UzayOyunu.ConsoleUI\\UzayOyunu.ConsoleUI.csproj",
+      "projectName": "UzayOyunu.ConsoleUI",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunuFinal\\UzayOyunu.ConsoleUI\\UzayOyunu.ConsoleUI.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunuFinal\\UzayOyunu.ConsoleUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunuFinal\\UzayOyunu.Business\\UzayOyunu.Business.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunuFinal\\UzayOyunu.Business\\UzayOyunu.Business.csproj"
+            },
+            "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunuFinal\\UzayOyunu.DataAccess\\UzayOyunu.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunuFinal\\UzayOyunu.DataAccess\\UzayOyunu.DataAccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

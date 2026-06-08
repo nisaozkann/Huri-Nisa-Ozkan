@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UzayOyunu.Business/1.0.0": {
+        "dependencies": {
+          "UzayOyunu.Core": "1.0.0",
+          "UzayOyunu.Entities": "1.0.0"
+        },
+        "runtime": {
+          "UzayOyunu.Business.dll": {}
+        }
+      },
+      "UzayOyunu.Core/1.0.0": {
+        "runtime": {
+          "UzayOyunu.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "UzayOyunu.Entities/1.0.0": {
+        "dependencies": {
+          "UzayOyunu.Core": "1.0.0"
+        },
+        "runtime": {
+          "UzayOyunu.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UzayOyunu.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UzayOyunu.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UzayOyunu.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

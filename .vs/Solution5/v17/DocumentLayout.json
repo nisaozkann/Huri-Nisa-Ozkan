@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B04BF6-C1C0-47B9-AF20-EA627F5FB173}|UzayOyunu.ConsoleUI\\UzayOyunu.ConsoleUI.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B04BF6-C1C0-47B9-AF20-EA627F5FB173}|UzayOyunu.ConsoleUI\\UzayOyunu.ConsoleUI.csproj|solutionrelative:uzayoyunu.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B04BF6-C1C0-47B9-AF20-EA627F5FB173}|UzayOyunu.ConsoleUI\\UzayOyunu.ConsoleUI.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.consoleui\\oyunolusturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B04BF6-C1C0-47B9-AF20-EA627F5FB173}|UzayOyunu.ConsoleUI\\UzayOyunu.ConsoleUI.csproj|solutionrelative:uzayoyunu.consoleui\\oyunolusturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820A8510-FE26-4E49-926D-2E9E424F9EB5}|UzayOyunu.Business\\UzayOyunu.Business.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.business\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820A8510-FE26-4E49-926D-2E9E424F9EB5}|UzayOyunu.Business\\UzayOyunu.Business.csproj|solutionrelative:uzayoyunu.business\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820A8510-FE26-4E49-926D-2E9E424F9EB5}|UzayOyunu.Business\\UzayOyunu.Business.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.business\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820A8510-FE26-4E49-926D-2E9E424F9EB5}|UzayOyunu.Business\\UzayOyunu.Business.csproj|solutionrelative:uzayoyunu.business\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C54BB3-EB95-481F-85ED-A0E8544B3067}|UzayOyunu.Core\\UzayOyunu.Core.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.core\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C54BB3-EB95-481F-85ED-A0E8544B3067}|UzayOyunu.Core\\UzayOyunu.Core.csproj|solutionrelative:uzayoyunu.core\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C54BB3-EB95-481F-85ED-A0E8544B3067}|UzayOyunu.Core\\UzayOyunu.Core.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.core\\iscorearsivi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C54BB3-EB95-481F-85ED-A0E8544B3067}|UzayOyunu.Core\\UzayOyunu.Core.csproj|solutionrelative:uzayoyunu.core\\iscorearsivi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF31043-F09A-43CD-9995-8C4A5D140710}|UzayOyunu.DataAccess\\UzayOyunu.DataAccess.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.dataaccess\\skorarsivi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF31043-F09A-43CD-9995-8C4A5D140710}|UzayOyunu.DataAccess\\UzayOyunu.DataAccess.csproj|solutionrelative:uzayoyunu.dataaccess\\skorarsivi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095F20BA-C911-443B-9078-B0912F83836D}|UzayOyunu.Entities\\UzayOyunu.Entities.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.entities\\lazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095F20BA-C911-443B-9078-B0912F83836D}|UzayOyunu.Entities\\UzayOyunu.Entities.csproj|solutionrelative:uzayoyunu.entities\\lazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095F20BA-C911-443B-9078-B0912F83836D}|UzayOyunu.Entities\\UzayOyunu.Entities.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.entities\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095F20BA-C911-443B-9078-B0912F83836D}|UzayOyunu.Entities\\UzayOyunu.Entities.csproj|solutionrelative:uzayoyunu.entities\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095F20BA-C911-443B-9078-B0912F83836D}|UzayOyunu.Entities\\UzayOyunu.Entities.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.entities\\uzaygemisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095F20BA-C911-443B-9078-B0912F83836D}|UzayOyunu.Entities\\UzayOyunu.Entities.csproj|solutionrelative:uzayoyunu.entities\\uzaygemisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095F20BA-C911-443B-9078-B0912F83836D}|UzayOyunu.Entities\\UzayOyunu.Entities.csproj|c:\\users\\lenovo\\source\\repos\\solution5\\uzayoyunu.entities\\uzayli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095F20BA-C911-443B-9078-B0912F83836D}|UzayOyunu.Entities\\UzayOyunu.Entities.csproj|solutionrelative:uzayoyunu.entities\\uzayli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IScoreArsivi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Core\\IScoreArsivi.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.Core\\IScoreArsivi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Core\\IScoreArsivi.cs",
+              "RelativeToolTip": "UzayOyunu.Core\\IScoreArsivi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:23:03.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Core\\IEntity.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.Core\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Core\\IEntity.cs",
+              "RelativeToolTip": "UzayOyunu.Core\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:22:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OyunOLusturma.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.ConsoleUI\\OyunOLusturma.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.ConsoleUI\\OyunOLusturma.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.ConsoleUI\\OyunOLusturma.cs",
+              "RelativeToolTip": "UzayOyunu.ConsoleUI\\OyunOLusturma.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:21:59.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.ConsoleUI\\Program.cs",
+              "RelativeToolTip": "UzayOyunu.ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:20:55.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkorArsivi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.DataAccess\\SkorArsivi.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.DataAccess\\SkorArsivi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.DataAccess\\SkorArsivi.cs",
+              "RelativeToolTip": "UzayOyunu.DataAccess\\SkorArsivi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:19:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UzayGemisi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Entities\\UzayGemisi.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.Entities\\UzayGemisi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Entities\\UzayGemisi.cs",
+              "RelativeToolTip": "UzayOyunu.Entities\\UzayGemisi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:17:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Entities\\Meteor.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.Entities\\Meteor.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Entities\\Meteor.cs",
+              "RelativeToolTip": "UzayOyunu.Entities\\Meteor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:17:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lazer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Entities\\Lazer.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.Entities\\Lazer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Entities\\Lazer.cs",
+              "RelativeToolTip": "UzayOyunu.Entities\\Lazer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:16:52.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Uzayli.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Entities\\Uzayli.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.Entities\\Uzayli.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Entities\\Uzayli.cs",
+              "RelativeToolTip": "UzayOyunu.Entities\\Uzayli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:16:45.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Business\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.Business\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Business\\ScoreManager.cs",
+              "RelativeToolTip": "UzayOyunu.Business\\ScoreManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:14:25.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Business\\GameManager.cs",
+              "RelativeDocumentMoniker": "UzayOyunu.Business\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Solution5\\UzayOyunu.Business\\GameManager.cs",
+              "RelativeToolTip": "UzayOyunu.Business\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T23:14:08.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

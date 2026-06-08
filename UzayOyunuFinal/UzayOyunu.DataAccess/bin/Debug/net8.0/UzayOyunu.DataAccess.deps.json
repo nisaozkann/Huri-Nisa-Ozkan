@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UzayOyunu.DataAccess/1.0.0": {
+        "dependencies": {
+          "UzayOyunu.Core": "1.0.0"
+        },
+        "runtime": {
+          "UzayOyunu.DataAccess.dll": {}
+        }
+      },
+      "UzayOyunu.Core/1.0.0": {
+        "runtime": {
+          "UzayOyunu.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UzayOyunu.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UzayOyunu.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
